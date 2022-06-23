@@ -1,6 +1,6 @@
 # DaiYuANg
 
-<img style="float:right" src="./assets/avatar.jpeg" width = "300" height = "400" alt="xxx" />
+<img src="./assets/avatar.jpeg" alt="xxx" width="25%" />
 
 - 👋 Hi, I’m @DaiYuANg
 - 👀 I’m interested in Linux/Java/Golang/Python/more
