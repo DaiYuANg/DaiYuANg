@@ -103,14 +103,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  
 </div>
 
-<<<<<<< HEAD
-=======
-## 如何获得支持
-
-- [邮箱](mailto:dai_yuang@icloud.com)
-- [nextcloud talk](https://www.daiyuang.cloud:81/call/uytv5x2a)
-
->>>>>>> cba26b2 (update readme_cn)
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
