@@ -1,4 +1,4 @@
-# DaiYuANg
+# 🧑‍💻DaiYuANg
 
 <img src="./.assets/avatar.jpeg" width="30%" />
 
@@ -12,7 +12,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=daiyuang&&style=flat-square" align="center" />
 </div>    
-## Connect with me
+## 💭Connect with me
 
 <div align="center">
 <a href="https://github.com/daiyuang" target="_blank">
@@ -32,16 +32,14 @@
 </a>
 </div>
 
-## Github Stats
+## ✅ Github Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=daiyuang&show_icons=true&count_private=true&theme=radical" align="center" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiyuang&langs_count=8&theme=radical" align="center" />
-
 <img src="https://activity-graph.herokuapp.com/graph?username=daiyuang&theme=github" align="center" />
 
-
-## My Skill Set
+## 🛠My Skill Set
 
 ### Frontend
 
