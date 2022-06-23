@@ -1,6 +1,6 @@
 # DaiYuANg
 
-<img src="./.assets/avatar.jpeg" style="width:30%" />
+<img src="./.assets/avatar.jpeg" width="30%" />
 
 
 - 👋 Hi, I’m @DaiYuANg
@@ -100,6 +100,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  
 </div>
+
 ## Support
 
 For support
