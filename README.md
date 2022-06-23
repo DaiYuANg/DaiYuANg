@@ -1,6 +1,6 @@
 # DaiYuANg
 
-<img src="./assets/avatar.jpeg" alt="xxx" width="25%" />
+<img src="./.assets/avatar.jpeg" alt="xxx" width="25%" />
 
 - 👋 Hi, I’m @DaiYuANg
 - 👀 I’m interested in Linux/Java/Golang/Python/more
@@ -14,10 +14,21 @@
 [![github](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=black)](https://github.com/daiyuang/daiyuang/)
 [![gitee](https://img.shields.io/badge/gitee-red?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/DaiYuAng/)
 [![gitlab](https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.daiyuang.cloud:81/gitlab/daiyuang)
+[![gitlab](https://img.shields.io/badge/zhihu-white?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.daiyuang.cloud:81/gitlab/daiyuang)
 
 ## 🛠 Skills
 
-Javascript, HTML, CSS...
+### frontend
+- Javascript, HTML, CSS , Typescript
+
+### backend
+- Golang , Java
+
+### database
+- MySql , SqlServer
+
+### nosql
+- redis
 
 ## Other Common Github Profile Sections
 
