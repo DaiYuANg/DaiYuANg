@@ -1,13 +1,13 @@
 # 🧑‍💻 戴宇昂
 
-<img src="/Users/daiyuang/Temporary/DaiYuANg/.assets/avatar.jpeg" style="width:30%" />
+<img src=".assets/avatar.jpeg" style="width:30%" />
 
 
 - 👋 嗨, 我是 @DaiYuANg
-- 👀 I’m interested in Linux/Java/Golang/Python/more
-- 🌱 I’m currently Golang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <dai_yuang@icloud.com>
+- 👀 我对 Linux/Java/Golang/Python/等 感兴趣
+- 🌱 我正在学习 Golang
+- 💞️ 也正在寻找开源合作项目
+- 📫 我的邮箱: <dai_yuang@icloud.com>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=daiyuang&&style=flat-square" align="center" />
@@ -103,6 +103,14 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  
 </div>
 
+<<<<<<< HEAD
+=======
+## 如何获得支持
+
+- [邮箱](mailto:dai_yuang@icloud.com)
+- [nextcloud talk](https://www.daiyuang.cloud:81/call/uytv5x2a)
+
+>>>>>>> cba26b2 (update readme_cn)
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  

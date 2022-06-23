@@ -4,8 +4,8 @@
 
 - 👋 Hi, I’m @DaiYuANg
 - 👀 I’m interested in Linux/Java/Golang/Python/more
-- 🌱 I’m currently Golang
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Golang/Rust
+- 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me <dai_yuang@icloud.com> or talk to me [nextcloud talk](https://www.daiyuang.cloud:81/call/uytv5x2a)
 
 <div align="center">
