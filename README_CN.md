@@ -1,6 +1,6 @@
 # 🧑‍💻 戴宇昂
 
-<img src=".assets/avatar.jpeg" style="width:30%" />
+<img src="./.assets/avatar.jpeg" width="30%" />
 
 
 - 👋 嗨, 我是 @DaiYuANg
