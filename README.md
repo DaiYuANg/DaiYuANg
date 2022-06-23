@@ -1,5 +1,7 @@
 # DaiYuANg
 
+<img style="float:right" src="./assets/avatar.jpeg" width = "300" height = "400" alt="xxx" />
+
 - 👋 Hi, I’m @DaiYuANg
 - 👀 I’m interested in Linux/Java/Golang/Python/more
 - 🌱 I’m currently Golang
