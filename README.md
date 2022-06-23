@@ -30,6 +30,10 @@
 <a href="https://www.daiyuang.cloud:81/wordpress/" target="_blank">
 <img src=https://img.shields.io/badge/wordpress-black?&style=for-the-badge&logo=wordpress&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.daiyuang.cloud:81/gitlab/daiyuang.atom?feed_token=_rWUDoxf6WSKVJqV_zfE" target="_blank">
+<img src=https://img.shields.io/badge/rss-yellow?&style=for-the-badge&logo=rss&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+</a>
 </div>
 
 ## ✅ Github Stats
