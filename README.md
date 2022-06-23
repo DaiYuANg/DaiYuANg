@@ -7,7 +7,7 @@
 - 👀 I’m interested in Linux/Java/Golang/Python/more
 - 🌱 I’m currently Golang
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <dai_yuang@icloud.com>
+- 📫 How to reach me <dai_yuang@icloud.com> or talk to me [nextcloud talk](https://www.daiyuang.cloud:81/call/uytv5x2a)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=daiyuang&&style=flat-square" align="center" />
@@ -101,13 +101,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  
 </div>
 
-## Support
-
-For support
-
-- [email](mailto:dai_yuang@icloud.com)
-- [nextcloud talk](https://www.daiyuang.cloud:81/call/uytv5x2a)
-
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" width="100%" />
 </div>  
