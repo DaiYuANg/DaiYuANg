@@ -2,7 +2,6 @@
 
 <img src="./.assets/avatar.jpeg" width="30%" />
 
-
 - 👋 Hi, I’m @DaiYuANg
 - 👀 I’m interested in Linux/Java/Golang/Python/more
 - 🌱 I’m currently Golang
@@ -12,7 +11,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=daiyuang&&style=flat-square" align="center" />
 </div>    
-## 💭Connect with me
+
+## 💭 Connect with me
 
 <div align="center">
 <a href="https://github.com/daiyuang" target="_blank">
@@ -60,8 +60,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  
 </div>
 
+### Backend
 
-### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
@@ -82,8 +82,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />  
 </div>
 
+### DevOps
 
-### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  

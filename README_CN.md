@@ -1,4 +1,4 @@
-# 戴宇昂
+# 🧑‍💻 戴宇昂
 
 <img src="/Users/daiyuang/Temporary/DaiYuANg/.assets/avatar.jpeg" style="width:30%" />
 
@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=daiyuang&&style=flat-square" align="center" />
 </div>    
 
-## 如何联系我
+## 💭 如何联系我
 
 <div align="center">
 <a href="https://github.com/daiyuang" target="_blank">
@@ -43,7 +43,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=daiyuang&theme=github" align="center" />
 
 
-## 我的编程技能
+## 🛠 我的编程技能
 
 ### 前端
 
@@ -63,8 +63,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  
 </div>
-
-
 
 ### 后端
 
@@ -88,8 +86,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />  
 </div>
 
-
-
 ### 运维及其他
 
 <div align="center">  
@@ -106,11 +102,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  
 </div>
-
-## 如何获得支持
-
-- [email](mailto:dai_yuang@icloud.com)
-- [nextcloud talk](https://www.daiyuang.cloud:81/call/uytv5x2a)
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
