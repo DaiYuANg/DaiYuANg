@@ -6,7 +6,7 @@
 - 👀 I’m interested in Linux/Java/Golang/Python/more
 - 🌱 I’m currently Golang/Rust
 - 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me <dai_yuang@icloud.com> or talk to me [nextcloud talk](https://www.daiyuang.cloud:81/call/uytv5x2a)
+- 📫 How to reach me <dai_yuang@icloud.com> or talk to me [nextcloud talk](https://www.daiyuang.cloud:81/call/qg7tqiyb)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=daiyuang&&style=flat-square" align="center" />

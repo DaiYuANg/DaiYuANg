@@ -7,7 +7,7 @@
 - 👀 我对 Linux/Java/Golang/Python/等 感兴趣
 - 🌱 我正在学习 Golang
 - 💞️ 也正在寻找开源合作项目
-- 📫 我的邮箱: <dai_yuang@icloud.com>
+- 📫 如何联系我: 邮箱 ：<dai_yuang@icloud.com> 或者 [nextcloud talk](https://www.daiyuang.cloud:81/call/qg7tqiyb)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=daiyuang&&style=flat-square" align="center" />
