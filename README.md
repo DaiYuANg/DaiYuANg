@@ -7,6 +7,7 @@
 - 🌱 I’m currently Golang/Rust
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me <dai_yuang@icloud.com> or talk to me [nextcloud talk](https://www.daiyuang.cloud:81/call/qg7tqiyb)
+- ➡️ **Everything in my github is my personal gitlab mirror and if you want issue or pull request please visit my gitlab’s project [gitlab](https://www.daiyuang.cloud:81/gitlab/daiyuang) **
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=daiyuang&&style=flat-square" align="center" />
@@ -35,7 +36,6 @@
 </a>
 </a>
 </div>
-
 ## ✅ Github Stats
 
 <div align="center">
