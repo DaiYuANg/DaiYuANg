@@ -110,7 +110,7 @@ Your ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) Vis
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaiYuANg&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
+  <a href="" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
         align="center"
