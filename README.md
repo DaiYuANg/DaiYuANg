@@ -23,4 +23,4 @@ Your ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) Vis
 
 ![DaiYuAng's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaiYuANg&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&show_icons=true&hide_rank=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaiYuANg&layout=donut&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=20&cache_seconds=21600&hide=javascript,html,mdx,sass,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaiYuANg&layout=donut&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=10&cache_seconds=21600&hide=javascript,html,mdx,sass,scss,antlr,shell,dockerfile,css,makefile,freemarker)](https://github.com/anuraghazra/github-readme-stats)
